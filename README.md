@@ -1,3 +1,8 @@
+```
+* Create A Plugin 才是我的初衷,
+* cordova官网上一直没找到 plugman 创建一个cordova/ionic 插件的方法, 
+* 下面的内容是通过 plugin -help 命令得到的,还好里面有我需要的 plugman create ....
+```
 plugman manages plugin.xml-compatible cordova plugins into cordova-generated projects.
 
 Usage
